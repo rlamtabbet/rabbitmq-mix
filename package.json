@@ -1,0 +1,17 @@
+{
+  "name": "rabbitmq-mix",
+  "version": "1.0.0",
+  "description": "experiencing with rabbitmq and node.js",
+  "main": "index.js",
+  "repository": "https://github.com/rlamtabbet/rabbitmq-mix.git",
+  "author": "Rachid Lamtabbet <rlamtabbet@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "amqplib": "^0.5.2",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "request": "2.81.0",
+    "request-promise": "4.2.1",
+    "uuid": "^3.1.0"
+  }
+}
